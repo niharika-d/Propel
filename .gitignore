@@ -156,3 +156,12 @@ ibex-demo-system/sw/c/build/
 .venv/
 __pycache__/
 *.swp
+build/
+ibex-demo-system/build/
+ibex-demo-system/sw/c/build/
+*.log
+*.fst
+*.vcd
+.venv/
+__pycache__/
+*.swp
